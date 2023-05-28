@@ -1,0 +1,22 @@
+{
+  "name": "notion-charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexolion/budget_charts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rexolion/budget_charts/issues"
+  },
+  "homepage": "https://github.com/rexolion/budget_charts#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
